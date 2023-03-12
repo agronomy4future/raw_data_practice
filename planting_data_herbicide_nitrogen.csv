@@ -1,0 +1,25 @@
+sowing_date,herbicide,nitrogen,Block,Yield
+Early,H0,H0,Block 1,30
+Early,H0,H0,Block 2,27
+Early,H0,H0,Block 3,25
+Early,H0,N1,Block 1,40
+Early,H0,N1,Block 2,41
+Early,H0,N1,Block 3,42
+Early,H1,H0,Block 1,37
+Early,H1,H0,Block 2,38
+Early,H1,H0,Block 3,40
+Early,H1,N1,Block 1,48
+Early,H1,N1,Block 2,47
+Early,H1,N1,Block 3,46
+Late,H0,H0,Block 1,25
+Late,H0,H0,Block 2,27
+Late,H0,H0,Block 3,26
+Late,H0,N1,Block 1,41
+Late,H0,N1,Block 2,41
+Late,H0,N1,Block 3,42
+Late,H1,H0,Block 1,38
+Late,H1,H0,Block 2,39
+Late,H1,H0,Block 3,42
+Late,H1,N1,Block 1,57
+Late,H1,N1,Block 2,59
+Late,H1,N1,Block 3,60
