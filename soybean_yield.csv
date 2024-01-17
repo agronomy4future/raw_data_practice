@@ -1,0 +1,25 @@
+season,crop ,plot,treatment ,grain_yield
+2023,Soybean,1,tr1,32.2
+2023,Soybean,1,tr2,5.0
+2023,Soybean,1,tr3,4.3
+2023,Soybean,1,tr3,1.0
+2023,Soybean,1,tr5,8.7
+2023,Soybean,2,tr1,25.6
+2023,Soybean,2,tr2,35.7
+2023,Soybean,2,tr3,29.2
+2023,Soybean,2,tr3,39.9
+2023,Soybean,2,tr5,20.7
+2023,Soybean,3,tr1,15.5
+2023,Soybean,3,tr2,23.2
+2023,Soybean,3,tr3,44.6
+2023,Soybean,3,tr3,45.0
+2023,Soybean,3,tr5,32.4
+2023,Soybean,4,tr1,20.5
+2023,Soybean,4,tr2,35.2
+2023,Soybean,4,tr3,37.3
+2023,Soybean,4,tr3,9.6
+2023,Soybean,4,tr5,16.8
+2023,Soybean,5,control,103.2
+2023,Soybean,6,control,60.8
+2023,Soybean,7,control,33.0
+2023,Soybean,8,control,66.2
