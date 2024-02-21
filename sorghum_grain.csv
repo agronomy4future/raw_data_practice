@@ -1,0 +1,25 @@
+Location,Crop ,Plot ,Block,Treatment,Treatment_modified,Total_DW,Grain_yield,AGW,GN
+Location_A,Sorghum,15,I,Control,Control,852.3,4303.6,28.1,31627
+Location_A,Sorghum,17,II,Control,Control,1295.7,6058.4,26.3,40157
+Location_A,Sorghum,19,III,Control,Control,1488.4,7438.7,20.8,45417
+Location_A,Sorghum,22,IV,Control,Control,925.6,5001.3,20.8,20770
+Location_A,Sorghum,1,I,TR1,TR1_2,807.4,3285.2,30.7,14488
+Location_A,Sorghum,4,II,TR1,TR1_2,907.4,3896.1,28.5,20323
+Location_A,Sorghum,9,III,TR1,TR1_2,778.6,3207.3,28.8,15636
+Location_A,Sorghum,10,IV,TR1,TR1_2,895.2,4418.2,28.6,20807
+Location_A,Sorghum,1,I,TR2,TR1_2,748.9,3130.9,49.1,11556
+Location_A,Sorghum,4,II,TR2,TR1_2,1032.4,4809.1,24.8,16821
+Location_A,Sorghum,9,III,TR2,TR1_2,1388.2,6409.9,26.7,32546
+Location_A,Sorghum,10,IV,TR2,TR1_2,1215.1,5183.3,29.3,20720
+Location_A,Sorghum,1,I,TR3,TR3,668.7,3008.1,25.5,10390
+Location_A,Sorghum,4,II,TR3,TR3,1564.1,7160.5,23.9,42890
+Location_A,Sorghum,9,III,TR3,TR3,1283.4,6284.1,23.9,23713
+Location_A,Sorghum,10,IV,TR3,TR3,1612,7445.1,20.9,34173
+Location_A,Sorghum,1,I,TR4,TR4_5,1010.5,4340.3,29.2,23492
+Location_A,Sorghum,4,II,TR4,TR4_5,757.4,2865.3,29.2,17564
+Location_A,Sorghum,9,III,TR4,TR4_5,1087.1,5106,25.4,30184
+Location_A,Sorghum,10,IV,TR4,TR4_5,1167.7,5383.6,27.7,23543
+Location_A,Sorghum,1,I,TR5,TR4_5,783.3,2765,26.5,22890
+Location_A,Sorghum,4,II,TR5,TR4_5,1002.5,3965.2,28.8,20570
+Location_A,Sorghum,9,III,TR5,TR4_5,733.4,3445.1,29.5,15980
+Location_A,Sorghum,10,IV,TR5,TR4_5,1067.9,5000.5,27.7,28911
